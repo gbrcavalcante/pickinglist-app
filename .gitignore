@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# src
+src/
+
+# Dependências
+package-lock.json
